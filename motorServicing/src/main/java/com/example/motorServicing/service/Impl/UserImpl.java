@@ -8,9 +8,7 @@ import org.springframework.stereotype.Service;
 
 import com.example.motorServicing.dto.LoginDto;
 import com.example.motorServicing.dto.UserDto;
-import com.example.motorServicing.entity.Admin;
 import com.example.motorServicing.entity.User;
-import com.example.motorServicing.repository.AdminRepository;
 import com.example.motorServicing.repository.UserRepository;
 import com.example.motorServicing.response.LoginMesage;
 import com.example.motorServicing.service.UserService;
